@@ -1,2 +1,2 @@
 # blobs
-image blobs
+nothing to see here, move along
